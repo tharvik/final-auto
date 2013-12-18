@@ -1,0 +1,7 @@
+final-auto
+==========
+
+Some script to automatically check for given files in archives
+
+  - FAZ: Final Auto-Zipper, check for files, zip it on success
+  - FAC: Final Auto-Checker, unzip, check for files
